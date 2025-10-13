@@ -234,7 +234,7 @@ td:first-child::before {
 
 @media (max-width: 600px) {
   table {
-    font-size: 9px;
+    font-size: 8px;
   }
 
   th, td {
@@ -254,5 +254,6 @@ td:first-child::before {
     z-index: 6;
   }
 }
+
 
 
